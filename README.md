@@ -10,7 +10,7 @@ all the source code is executed through smart conctracts deployed at ethereum pu
   0x811B98623EA8f4Da5EFD64181cc0d9920d7A7061  Digital Assets Created      YSR
   0xB1feAeca74E99d3E974DBe13f3f87b4b3D26bAFA  Digital Assets Created       SAP
   0xFD87dA04C3701D44e89809d4eE21E35154735924    Digital Assets Created    KLAND
-                                                Digital Assets Created    SV3
+   0xc2de2ce66f1f16c09e6a2c9595ac878db4113a88    Digital Assets Created    SV3
   
   
   
@@ -33,5 +33,14 @@ all the source code is executed through smart conctracts deployed at ethereum pu
   and We thought it will also provide unique innovative solution for farmers in addressing their debt trap
   We created a decentralised Exchange for farmers to liquidated their Yearly Sappling Vouchers for raising future finance
   We also suggest government of karnataka to create Similar kind of digital solutions for farmers in exchaning their produced goods.
+  Govenrment also can raise finance against Yearly sappling Voucher using ICO route or Discounted Asset Bargaining  Mode
   
-  Idea designed by Shashikanth R and you can reach shashikanth2005@gmail.com
+  Start Buying YSV Vouchers at 
+  https://etherdelta.com/#0x60e6b603b34b39ed22e95c10f360afde8a88d1e9-ETH 
+  and Help Farmers
+  
+  
+ The Digital Assets Exchange model has been demonstrated using 0Xprotocal and one can start using at 
+ https://0xproject.com/portal
+  
+  Idea designed by Shashikanth R and you can reach shashikanth2005@gmail.com/9632591399
