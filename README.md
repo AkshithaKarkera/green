@@ -47,3 +47,5 @@ all the source code is executed through smart conctracts deployed at ethereum pu
   
   The Project hosted at 
   https://greenyantaz.azurewebsites.net/index.html
+We have also created ethereum private network at 
+http://gyantraz.eastus.cloudapp.azure.com/
