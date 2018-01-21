@@ -3,7 +3,7 @@ Provides source code for the whole project of Project Green Designed by Gyantraz
 Source code compiled by Shashikanth R gzgreensolutions@gmail.com
 
 We designed this  model at Blockchain hackathon conducted at hotel ashoka during 19 to 21
-all the source code is executed through smart conctracts deployed at ethereum purlic network you can download the code from smart contracts at  
+all the source code is executed through smart conctracts deployed at ethereum public network you can download the code from smart contracts at  
 
 0xa17719BaCf79a8c15E2269A07fFC16Ee1f32D993      Digital Assets Created   YSVTWO
   0x60E6B603B34b39ed22e95C10f360AFdE8a88D1e9 Digital Assets Created      YSVONE
