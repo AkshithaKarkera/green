@@ -44,3 +44,6 @@ all the source code is executed through smart conctracts deployed at ethereum pu
  https://0xproject.com/portal
   
   Idea designed by Shashikanth R and you can reach shashikanth2005@gmail.com/9632591399
+  
+  The Project hosted at 
+  https://greenyantaz.azurewebsites.net/
